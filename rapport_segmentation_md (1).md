@@ -1,5 +1,9 @@
 # Rapport d'Analyse - Segmentation Client
 #  BAKKOURY SALMA CAC 1
+
+<img src="Photo salma.jpg" style="height:200px;margin-right:100px"/> 
+
+
 ---
 
 ## Table des Matières
