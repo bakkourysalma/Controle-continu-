@@ -613,7 +613,13 @@ for cluster in range(optimal_k):
     print(f"Taille : {len(cluster_data)} clients ({len(cluster_data)/len(df_result)*100:.1f}%)")
     print("\nMoyennes des variables numériques :")
     print(cluster_data[numeric_cols_final].mean().round(2))
+    
 ```
+<img src="Graphe 1+.png" style="height:500px;margin-right:350px"/>
+<img src="Graphe 2+.png" style="height:500px;margin-right:350px"/>
+<img src="Graphe 3++.png" style="height:500px;margin-right:350px"/>
+<img src="Graphe 4++.png" style="height:500px;margin-right:350px"/>
+
 
 **Interprétation business :**
 - Identifier les profils types de chaque segment
